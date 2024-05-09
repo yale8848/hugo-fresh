@@ -1,4 +1,4 @@
-module github.com/StefMa/hugo-fresh
+module github.com/yale8848/hugo-fresh
 
 go 1.12
 
